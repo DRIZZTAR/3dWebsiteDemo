@@ -6,7 +6,8 @@ import gsap from "gsap";
 /**
  * Debug
  */
-const gui = new GUI();
+const gui = new dat.GUI();
+gui.close();
 
 const parameters = {
   materialColor: "#949494",
