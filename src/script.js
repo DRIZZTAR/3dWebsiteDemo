@@ -6,7 +6,7 @@ import gsap from "gsap";
 /**
  * Debug
  */
-const gui = new dat.GUI();
+const gui = new GUI();
 gui.close();
 
 const parameters = {
