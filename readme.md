@@ -25,7 +25,7 @@ npm run build
 
 ## Live Demo 🎉
 ### Check out the live demo at: 
-[Check out the site: 🪐](https://ts3dwebdemo.vercel.app/))
+[Visit the site🪐](https://ts3dwebdemo.vercel.app/)
 
 ## Description 📄
 This is a template for a website using 3D elements with Three.js 🤩. It's a starting point for how 3d adds to websites! 🎨
