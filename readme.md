@@ -3,12 +3,12 @@
 
 ## Setup 🛠️
 ### Install Node.js 💻
-Download and install Node.js from the official website
+Download and install Node.js from the official website if you dont have it [Node.js](https://nodejs.org/en)
 
 ### Run Commands 📝
 Run the following commands in your terminal:
 
-### Install dependencies (only the first time) 📦
+### Install dependencies 📦
 ```
 npm install
 ```
