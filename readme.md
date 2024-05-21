@@ -25,17 +25,20 @@ npm run build
 
 ## Live Demo 🎉
 ### Check out the live demo at: 
-https://www.ts3dwebdemo.vercel.app
+[Check out the site: 🪐](https://ts3dwebdemo.vercel.app/))
 
 ## Description 📄
 This is a template for a website using 3D elements with Three.js 🤩. It's a starting point for how 3d adds to websites! 🎨
+
 ## Features 🌟
 3 Meshes rotating as each section comes into view 📈
 3D elements and animations 🤯
-## Responsive design 📱
+
 ## Contributing 🤝
 Contributions are welcome! If you'd like to help improve this template, please open a pull request with your changes 📝.
+
 ## License 📜
-Free for all, credit is appreciated 😎
+Free for everyone, credit is appreciated 😎, and show me what you build!
+
 ## Author 👋
-Tyson Skakun
+### Tyson Skakun
